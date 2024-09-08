@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LearnSet {
+public class LearnHashSet {
     public static void main(String[] args) {
         Set<Integer> set = new HashSet<>();
 //        Set<Integer> set = new LinkedHashSet<>();
