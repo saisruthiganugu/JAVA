@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LearnHashSet {
+public class LearnLinkedHashSet {
     public static void main(String[] args) {
         Set<Integer> set = new LinkedHashSet<>();
         // LinkedHashSet is a Java collection that combines the features of a HashSet and a LinkedList,
