@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class LinkedHashSet {
+public class LearnHashSet {
     public static void main(String[] args) {
-        Set<Integer> set = new LinkedHashSet<>();
+        Set<Integer> set = new HashSet<>();
         set.add(32);
         set.add(2);
         set.add(54);
