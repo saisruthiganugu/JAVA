@@ -1,4 +1,4 @@
-package com.example.springOne.ReentrantLock;
+package com.example.springOne.SynchronizedBlock;
 
 public class SynchronizedBlock {
     public static void main(String[] args) {
